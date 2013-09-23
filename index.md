@@ -28,6 +28,11 @@ Starting a community over some idea is not one person deal. Add your thoughts, i
 
 Discuss and share links.
 
+### Developed with Eclipse
+
+A good idea is just add icon to your project, that proudly says "Developed with Eclipse"
+
+### Dicussions
 
 <div id="disqus_thread"></div>
 <script type="text/javascript">
