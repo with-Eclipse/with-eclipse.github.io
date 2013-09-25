@@ -32,6 +32,12 @@ Discuss and share links.
 
 A good idea is just add icon to your project, that proudly says "Developed with Eclipse"
 
+<!--
+![with-eclipse-1.jpg](with-eclipse-1.jpg)
+-->
+
+<a href="http://with-eclipse.github.io/"><img alt="with-Eclipse logo" src="http://with-eclipse.github.io/with-eclipse-1.jpg" /></a>
+
 ### Dicussions
 
 <div id="disqus_thread"></div>
