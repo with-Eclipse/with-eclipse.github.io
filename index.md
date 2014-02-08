@@ -7,6 +7,19 @@ title: Developed with Eclipse notion
 
 Eclipse is maybe the least known IDE. Given the number of projects, modules, and no company promoting basic its usage, new user may feel little suport. However learning Eclipse IDE will give skill set and knowledge that can be applied in [wide range of Eclipse based products and IDEs](http://en.wikipedia.org/wiki/List_of_Eclipse-based_software).
 
+### Eclipse IDE user voice
+
+Unofficial [[yet](http://eclipse-ide.uservoice.com/forums/237853-eclipse-ide-ideas/suggestions/5380278)] wishlist and feature request board for Eclipse IDE is at [http://eclipse-ide.uservoice.com/](http://eclipse-ide.uservoice.com/forums/237853-eclipse-ide-ideas)
+
+Let everybody know what you miss, want and long for.
+
+### Eclipse projects on GitHub
+
+- [arduino](https://github.com/jantje/arduino-eclipse-plugin)
+- [m2e-android](https://github.com/rgladwell/m2e-android)
+- [mybatipse](https://github.com/harawata/mybatipse)
+
+[Please add yours](https://github.com/with-Eclipse/with-eclipse.github.io/edit/master/index.md)
 
 ### Story
 
