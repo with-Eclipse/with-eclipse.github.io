@@ -13,14 +13,6 @@ Unofficial [[yet](http://eclipse-ide.uservoice.com/forums/237853-eclipse-ide-ide
 
 Let everybody know what you miss, want and long for.
 
-### Eclipse projects on GitHub
-
-- [arduino](https://github.com/jantje/arduino-eclipse-plugin)
-- [m2e-android](https://github.com/rgladwell/m2e-android)
-- [mybatipse](https://github.com/harawata/mybatipse)
-
-[Please add yours](https://github.com/with-Eclipse/with-eclipse.github.io/edit/master/index.md)
-
 ### Story
 
 When reading [2013 Annual Eclipse Community Report](http://www.eclipse.org/org/foundation/reports/annual_report.php)
@@ -59,6 +51,21 @@ A good idea is just add icon to your project, that proudly says "Developed with 
 Just use code snippet below:
 
 	<a href="http://with-eclipse.github.io/" target="_blank"><img alt="with-Eclipse logo" src="http://with-eclipse.github.io/with-eclipse-1.jpg" /></a>
+
+### Eclipse plugins projects on GitHub
+
+- [aptana](https://github.com/aptana/studio3)
+- [arduino](https://github.com/jantje/arduino-eclipse-plugin)
+- [gfm](https://github.com/satyagraha/gfm_viewer)
+- [gradle](https://github.com/spring-projects/eclipse-integration-gradle)
+- [jshint](https://github.com/eclipsesource/jshint-eclipse/)
+- [m2e-android](https://github.com/rgladwell/m2e-android)
+- [mongodb](https://github.com/Kanatoko/MonjaDB)
+- [mybatipse](https://github.com/harawata/mybatipse)
+- [spring](), [STS](https://github.com/spring-projects/eclipse-integration-commons)
+- [startexplorer](https://github.com/basti1302/startexplorer/)
+
+[Please add yours](https://github.com/with-Eclipse/with-eclipse.github.io/edit/master/index.md)
 
 ### Dicussions
 
