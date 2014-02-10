@@ -5,7 +5,7 @@ title: Developed with Eclipse notion
 
 ### Eclipse
 
-Eclipse is maybe the least known IDE. Given the number of projects, modules, and no company promoting basic its usage, new user may feel little suport. However learning Eclipse IDE will give skill set and knowledge that can be applied in [wide range of Eclipse based products and IDEs](http://en.wikipedia.org/wiki/List_of_Eclipse-based_software).
+Eclipse is maybe "the least known" IDE. Given the number of projects, modules, and Eclipse IDE distributions (from eclipse.org and other verndors) and no company promoting basic its usage, new user may feel little suport. However learning Eclipse IDE will give skill set and knowledge that can be applied in [wide range of Eclipse based products and IDEs](http://en.wikipedia.org/wiki/List_of_Eclipse-based_software).
 
 ### Eclipse IDE user voice
 
