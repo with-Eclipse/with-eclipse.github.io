@@ -73,7 +73,11 @@ Just use code snippet below:
 
 	<a href="http://with-eclipse.github.io/" target="_blank"><img alt="with-Eclipse logo" src="http://with-eclipse.github.io/with-eclipse-0.jpg" /></a>
 
-### Eclipse plugins projects on GitHub
+### Eclipse plugins projects 
+
+[Please add yours](https://github.com/with-Eclipse/with-eclipse.github.io/edit/master/index.md)
+
+#### on GitHub
 
 - [aptana](https://github.com/aptana/studio3)
 - [arduino](https://github.com/jantje/arduino-eclipse-plugin)
@@ -83,12 +87,21 @@ Just use code snippet below:
 - [m2e-android](https://github.com/rgladwell/m2e-android)
 - [mongodb](https://github.com/Kanatoko/MonjaDB)
 - [mybatipse](https://github.com/harawata/mybatipse)
-- [spring](?), [STS](https://github.com/spring-projects/eclipse-integration-commons)
+- [spring](?), [STS](https://github.com/spring-projects/eclipse-integration-commons),
+ [gradle-integration](https://github.com/spring-projects/eclipse-integration-gradle/)
 - [startexplorer](https://github.com/basti1302/startexplorer/)
 
-[Please add yours](https://github.com/with-Eclipse/with-eclipse.github.io/edit/master/index.md)
+#### on Google Code
 
-### Dicussions
+-
+
+#### on SourceForge
+
+- 
+
+
+
+### Discussions
 
 <div id="disqus_thread"></div>
 <script type="text/javascript">
