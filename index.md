@@ -5,13 +5,34 @@ title: Developed with Eclipse notion
 
 ### Eclipse
 
-Eclipse is maybe "the least known" IDE. Given the number of projects, modules, and Eclipse IDE distributions (from eclipse.org and other verndors) and no company promoting basic its usage, new user may feel little suport. However learning Eclipse IDE will give skill set and knowledge that can be applied in [wide range of Eclipse based products and IDEs](http://en.wikipedia.org/wiki/List_of_Eclipse-based_software).
+Eclipse is maybe "the least known" IDE. Given the number of [projects](https://projects.eclipse.org/list-of-projects),
+ modules, and Eclipse IDE distributions
+ (from eclipse.org and other vendors) and no company promoting basic its usage, new user may feel little support
+ or hard to find easy to follow path. Making complex thing (that software development is) to appear simple is
+ [an art](http://eclipse-ide.uservoice.com/forums/237853-eclipse-ide-ideas).
+ However learning Eclipse IDE basics will give skill set and knowledge that can be applied
+ in [wide range of Eclipse based products and IDEs](http://en.wikipedia.org/wiki/List_of_Eclipse-based_software).
 
 ### Eclipse IDE user voice
 
-Unofficial [[yet](http://eclipse-ide.uservoice.com/forums/237853-eclipse-ide-ideas/suggestions/5380278)] wishlist and feature request board for Eclipse IDE is at [http://eclipse-ide.uservoice.com/](http://eclipse-ide.uservoice.com/forums/237853-eclipse-ide-ideas)
+Unofficial [[yet](http://eclipse-ide.uservoice.com/forums/237853-eclipse-ide-ideas/suggestions/5380278)] wishlist
+and feature request board for Eclipse IDE is at [http://eclipse-ide.uservoice.com/][1]
 
 Let everybody know what you miss, want and long for.
+
+  [1]: http://eclipse-ide.uservoice.com/forums/237853-eclipse-ide-ideas
+
+#### Making wishes
+
+Special with-Eclipse logo to start wishlist on uservoice.com
+
+![with-eclipse-1.jpg](with-eclipse-1.jpg)
+
+Of course it won't be immediate fulfillment. And you should raise a issue in [Bugzlilla](https://bugs.eclipse.org/bugs/),
+ as it is still official way for submitting bugs and feature requests.
+These are wishes of broader community. So be more generic. [What will be useful for everybody?][1]
+
+Vote on existing ideas. Those getting more upvotes will be seen by everybody, and popularity will speed up the implementation. 
 
 ### Story
 
@@ -46,11 +67,11 @@ A good idea is just add icon to your project, that proudly says "Developed with 
 ![with-eclipse-1.jpg](with-eclipse-1.jpg)
 -->
 
-<a href="http://with-eclipse.github.io/"><img alt="with-Eclipse logo" src="http://with-eclipse.github.io/with-eclipse-1.jpg" /></a>
+<a href="http://with-eclipse.github.io/"><img alt="with-Eclipse logo" src="http://with-eclipse.github.io/with-eclipse-0.jpg" /></a>
 
 Just use code snippet below:
 
-	<a href="http://with-eclipse.github.io/" target="_blank"><img alt="with-Eclipse logo" src="http://with-eclipse.github.io/with-eclipse-1.jpg" /></a>
+	<a href="http://with-eclipse.github.io/" target="_blank"><img alt="with-Eclipse logo" src="http://with-eclipse.github.io/with-eclipse-0.jpg" /></a>
 
 ### Eclipse plugins projects on GitHub
 
@@ -62,7 +83,7 @@ Just use code snippet below:
 - [m2e-android](https://github.com/rgladwell/m2e-android)
 - [mongodb](https://github.com/Kanatoko/MonjaDB)
 - [mybatipse](https://github.com/harawata/mybatipse)
-- [spring](), [STS](https://github.com/spring-projects/eclipse-integration-commons)
+- [spring](?), [STS](https://github.com/spring-projects/eclipse-integration-commons)
 - [startexplorer](https://github.com/basti1302/startexplorer/)
 
 [Please add yours](https://github.com/with-Eclipse/with-eclipse.github.io/edit/master/index.md)
