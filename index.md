@@ -24,7 +24,7 @@ Let everybody know what you miss, want and long for.
 
 #### Making wishes
 
-Special with-Eclipse logo to start wishlist on uservoice.com
+Special with-Eclipse logo `with-eclipse-1.jpg` to start wishlist on uservoice.com
 
 ![with-eclipse-1.jpg](with-eclipse-1.jpg)
 
