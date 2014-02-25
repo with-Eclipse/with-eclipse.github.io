@@ -87,6 +87,7 @@ Just use code snippet below:
 - [m2e-android](https://github.com/rgladwell/m2e-android)
 - [mongodb](https://github.com/Kanatoko/MonjaDB)
 - [mybatipse](https://github.com/harawata/mybatipse)
+- [goclipse](https://github.com/sesteel/goclipse)
 - [spring](?), [STS](https://github.com/spring-projects/eclipse-integration-commons),
  [gradle-integration](https://github.com/spring-projects/eclipse-integration-gradle/)
 - [startexplorer](https://github.com/basti1302/startexplorer/)
