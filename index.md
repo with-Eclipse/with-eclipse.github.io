@@ -9,7 +9,7 @@ Eclipse is maybe "the least known" IDE. Given the number of [projects](https://p
  modules, and Eclipse IDE distributions
  (from eclipse.org and other vendors) and no company promoting basic its usage, new user may feel little support
  or hard to find easy to follow path. Making complex thing (that software development is) to appear simple is
- [an art](http://eclipse-ide.uservoice.com/forums/237853-eclipse-ide-ideas).
+ [an art](http://agilemanifesto.org/principles.html).
  However learning Eclipse IDE basics will give skill set and knowledge that can be applied
  in [wide range of Eclipse based products and IDEs](http://en.wikipedia.org/wiki/List_of_Eclipse-based_software).
 
