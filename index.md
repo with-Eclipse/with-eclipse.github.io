@@ -1,5 +1,5 @@
 ---
-layout: nil
+layout: tactile_theme
 title: Developed with Eclipse notion
 ---
 
