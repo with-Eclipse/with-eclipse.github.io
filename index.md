@@ -16,7 +16,8 @@ Eclipse is maybe "the least known" IDE. Given the number of [projects](https://p
 ### Eclipse IDE user voice
 
 Unofficial [[yet](http://eclipse-ide.uservoice.com/forums/237853-eclipse-ide-ideas/suggestions/5380278)] wishlist
-and feature request board for Eclipse IDE is at [http://eclipse-ide.uservoice.com/][1]
+and feature request board for Eclipse IDE is at  
+[http://eclipse-ide.uservoice.com/][1]
 
 Let everybody know what you miss, want and long for.
 
