@@ -93,6 +93,11 @@ Just use code snippet below:
 - [spring](?), [STS](https://github.com/spring-projects/eclipse-integration-commons),
  [gradle-integration](https://github.com/spring-projects/eclipse-integration-gradle/)
 - [startexplorer](https://github.com/basti1302/startexplorer/)
+- https://github.com/satyagraha/gfm_viewer
+- [Moonrise UI Theme](https://github.com/guari/eclipse-ui-theme)
+- [Closure and LESS](https://github.com/vtst/ow)
+- https://github.com/mihnita/ansi-econsole
+- https://github.com/Nodeclipse/EditBox
 
 #### on Google Code
 
