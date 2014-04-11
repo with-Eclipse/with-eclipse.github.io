@@ -90,6 +90,7 @@ Just use code snippet below:
 - [mongodb](https://github.com/Kanatoko/MonjaDB)
 - [mybatipse](https://github.com/harawata/mybatipse)
 - [goclipse](https://github.com/sesteel/goclipse)
+- [patternbox-eclipse](https://github.com/patternbox/patternbox-eclipse)
 - [spring](?), [STS](https://github.com/spring-projects/eclipse-integration-commons),
  [gradle-integration](https://github.com/spring-projects/eclipse-integration-gradle/)
 - [startexplorer](https://github.com/basti1302/startexplorer/)
