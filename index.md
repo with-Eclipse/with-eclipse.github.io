@@ -84,6 +84,7 @@ Just use code snippet below:
 - [aptana](https://github.com/aptana/studio3)
 - [arduino](https://github.com/jantje/arduino-eclipse-plugin)
 - [eclipse-color-theme](https://github.com/eclipse-color-theme/eclipse-color-theme)
+- [emmet (ex-Zen Coding)](https://github.com/emmetio/emmet-eclipse)
 - [gfm](https://github.com/satyagraha/gfm_viewer)
 - [gradle](https://github.com/spring-projects/eclipse-integration-gradle)
 - [jshint](https://github.com/eclipsesource/jshint-eclipse/)
