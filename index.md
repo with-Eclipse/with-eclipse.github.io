@@ -81,17 +81,21 @@ Just use code snippet below:
 
 #### on GitHub
 
+- [ANSI Console](https://github.com/mihnita/ansi-econsole)
 - [aptana](https://github.com/aptana/studio3)
 - [arduino](https://github.com/jantje/arduino-eclipse-plugin)
 - [eclipse-color-theme](https://github.com/eclipse-color-theme/eclipse-color-theme)
+- [EditBox @Nodeclipse](https://github.com/Nodeclipse/EditBox)
 - [emmet (ex-Zen Coding)](https://github.com/emmetio/emmet-eclipse)
+- [emt-xtext-archetype](https://github.com/fuinorg/emt-xtext-archetype)
 - [gfm](https://github.com/satyagraha/gfm_viewer)
+- [goclipse](https://github.com/sesteel/goclipse)
 - [gradle](https://github.com/spring-projects/eclipse-integration-gradle)
 - [jshint](https://github.com/eclipsesource/jshint-eclipse/)
 - [m2e-android](https://github.com/rgladwell/m2e-android)
 - [mongodb](https://github.com/Kanatoko/MonjaDB)
 - [mybatipse](https://github.com/harawata/mybatipse)
-- [goclipse](https://github.com/sesteel/goclipse)
+- [Nodeclipse (Node.js, Nashorn, Phantomjs, Maven, Gradle)](https://github.com/Nodeclipse/nodeclipse-1)
 - [patternbox-eclipse](https://github.com/patternbox/patternbox-eclipse)
 - [spring](?), [STS](https://github.com/spring-projects/eclipse-integration-commons),
  [gradle-integration](https://github.com/spring-projects/eclipse-integration-gradle/)
@@ -99,8 +103,6 @@ Just use code snippet below:
 - https://github.com/satyagraha/gfm_viewer
 - [Moonrise UI Theme](https://github.com/guari/eclipse-ui-theme)
 - [Closure and LESS](https://github.com/vtst/ow)
-- https://github.com/mihnita/ansi-econsole
-- https://github.com/Nodeclipse/EditBox
 
 #### on Google Code
 
