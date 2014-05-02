@@ -84,6 +84,7 @@ Just use code snippet below:
 - [arduino](https://github.com/jantje/arduino-eclipse-plugin)
 - [eclipse-color-theme](https://github.com/eclipse-color-theme/eclipse-color-theme)
 - [EditBox @Nodeclipse](https://github.com/Nodeclipse/EditBox)
+- [eExplorer](https://github.com/culmat/eExplorer) Embeded Windows Explorer
 - [emmet (ex-Zen Coding)](https://github.com/emmetio/emmet-eclipse)
 - [emt-xtext-archetype](https://github.com/fuinorg/emt-xtext-archetype)
 - [gfm](https://github.com/satyagraha/gfm_viewer)
