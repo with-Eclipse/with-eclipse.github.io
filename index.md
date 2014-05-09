@@ -87,23 +87,20 @@ Just use code snippet below:
 - [eExplorer](https://github.com/culmat/eExplorer) Embeded Windows Explorer
 - [emmet (ex-Zen Coding)](https://github.com/emmetio/emmet-eclipse)
 - [emt-xtext-archetype](https://github.com/fuinorg/emt-xtext-archetype)
-- [gfm](https://github.com/satyagraha/gfm_viewer)
+- [gfm_viewer GitHub Flavored Markdown Viewer](https://github.com/satyagraha/gfm_viewer)
 - [goclipse](https://github.com/sesteel/goclipse)
 - [gradle](https://github.com/spring-projects/eclipse-integration-gradle)
 - [jshint](https://github.com/eclipsesource/jshint-eclipse/)
 - [m2e-android](https://github.com/rgladwell/m2e-android)
 - [mongodb](https://github.com/Kanatoko/MonjaDB)
+- [Moonrise UI Theme](https://github.com/guari/eclipse-ui-theme)
 - [mybatipse](https://github.com/harawata/mybatipse)
 - [Nodeclipse (Node.js, Nashorn, Phantomjs, Maven, Gradle)](https://github.com/Nodeclipse/nodeclipse-1)
 - [patternbox-eclipse](https://github.com/patternbox/patternbox-eclipse)
 - [spring](?), [STS](https://github.com/spring-projects/eclipse-integration-commons),
  [gradle-integration](https://github.com/spring-projects/eclipse-integration-gradle/)
 - [startexplorer](https://github.com/basti1302/startexplorer/)
-- [GitHub Flavored Markdown Viewer](https://github.com/satyagraha/gfm_viewer)
-- [Moonrise UI Theme](https://github.com/guari/eclipse-ui-theme)
-- [Closure and LESS](https://github.com/vtst/ow)
-- [vtst-ow](https://github.com/vtst/ow) :-E 
- 
+- [vtst-ow Closure and LESS](https://github.com/vtst/ow) :-E 
 
 :-E means "your commits are not really welcomed"
 
