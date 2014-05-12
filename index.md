@@ -54,6 +54,11 @@ and developers who just use Eclipse, for example for web projects that prevail n
 
 But newer http://eclipse.org website is going to be quite different experience and focus.
 
+<!-- 
+
+http://www.theserverside.com/feature/Whats-the-Big-IDE-Comparing-Eclipse-vs-NetBeans
+-->
+
 ### Words
 
 If you develop something on Eclipse platform, you are Eclipse [platform] developer.  
