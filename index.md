@@ -52,6 +52,8 @@ and developers who just use Eclipse, for example for web projects that prevail n
 
 [New 2014 Survey](https://www.surveymonkey.com/s/eclipsecommunity2014) results will be later.
 
+But newer http://eclipse.org website is going to be quite different experience and focus.
+
 ### Words
 
 If you develop something on Eclipse platform, you are Eclipse [platform] developer.  
