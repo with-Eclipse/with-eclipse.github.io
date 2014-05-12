@@ -46,6 +46,12 @@ There has always been confusion with Eclipse & Eclipse platform, and are Eclipse
 The problem may have been just in words. Eclipse users can refer to both platform developers
 and developers who just use Eclipse, for example for web projects that prevail now.
 
+#### Stoty update
+
+[Artcle by Chris Mayer gives some interpretation of 2013 Survey ](http://jaxenter.com/eclipse-popularity-dips-after-juno-4-2-platform-release-survey-finds-47366.html)
+
+[New 2014 Survey](https://www.surveymonkey.com/s/eclipsecommunity2014) results will be later.
+
 ### Words
 
 If you develop something on Eclipse platform, you are Eclipse [platform] developer.  
