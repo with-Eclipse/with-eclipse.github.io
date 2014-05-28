@@ -111,6 +111,7 @@ Just use code snippet below:
 - [mybatipse](https://github.com/harawata/mybatipse)
 - [Nodeclipse (Node.js, Nashorn, Phantomjs, Maven, Gradle)](https://github.com/Nodeclipse/nodeclipse-1)
 - [patternbox-eclipse](https://github.com/patternbox/patternbox-eclipse)
+- [shr5rcp](https://github.com/UrsZeidler/shr5rcp) managing resources of Shadowrun game
 - [spring](?), [STS](https://github.com/spring-projects/eclipse-integration-commons),
  [gradle-integration](https://github.com/spring-projects/eclipse-integration-gradle/)
 - [startexplorer](https://github.com/basti1302/startexplorer/)
