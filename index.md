@@ -101,6 +101,7 @@ Just use code snippet below:
 - [eExplorer](https://github.com/culmat/eExplorer) Embeded Windows Explorer
 - [emmet (ex-Zen Coding)](https://github.com/emmetio/emmet-eclipse)
 - [emt-xtext-archetype](https://github.com/fuinorg/emt-xtext-archetype)
+- [GitHub Extensions](https://github.com/ANCIT/eGit-extensions)
 - [gfm_viewer GitHub Flavored Markdown Viewer](https://github.com/satyagraha/gfm_viewer)
 - [GoClipse](https://github.com/sesteel/goclipse)
 - [gradle](https://github.com/spring-projects/eclipse-integration-gradle)
