@@ -120,7 +120,7 @@ Just use code snippet below:
 - [startexplorer](https://github.com/basti1302/startexplorer/)
 - [vtst-ow Closure and LESS](https://github.com/vtst/ow) :-E 
 
-:-E means "your commits are not really welcomed"
+:-E means "your commits are not really welcomed"  
 ... means "slow responses"
 
 #### on Google Code
