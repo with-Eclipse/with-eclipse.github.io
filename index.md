@@ -113,6 +113,7 @@ Just use code snippet below:
 - [mybatipse](https://github.com/harawata/mybatipse)
 - [Nodeclipse (Node.js, Nashorn, Phantomjs, Maven, Gradle)](https://github.com/Nodeclipse/nodeclipse-1)
 - [patternbox-eclipse](https://github.com/patternbox/patternbox-eclipse)
+- [Quickimage](https://github.com/persal/quickimage) Image Viewer ...
 - [shr5rcp](https://github.com/UrsZeidler/shr5rcp) managing resources of Shadowrun game
 - [spring](?), [STS](https://github.com/spring-projects/eclipse-integration-commons),
  [gradle-integration](https://github.com/spring-projects/eclipse-integration-gradle/)
@@ -120,6 +121,7 @@ Just use code snippet below:
 - [vtst-ow Closure and LESS](https://github.com/vtst/ow) :-E 
 
 :-E means "your commits are not really welcomed"
+... means "slow responses"
 
 #### on Google Code
 
