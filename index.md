@@ -108,6 +108,7 @@ Just use code snippet below:
 - [JDT Spelling](https://github.com/hendrens/jdt.spelling) spelling in Java Classes and methods names
 - [jshint](https://github.com/eclipsesource/jshint-eclipse/)
 - [m2e-android](https://github.com/rgladwell/m2e-android)
+- [mirur](https://github.com/brandonborkholder/mirur) Visual Debugger
 - [mongodb](https://github.com/Kanatoko/MonjaDB)
 - [Moonrise UI Theme](https://github.com/guari/eclipse-ui-theme)
 - [mybatipse](https://github.com/harawata/mybatipse)
