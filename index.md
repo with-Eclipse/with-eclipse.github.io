@@ -105,6 +105,7 @@ Just use code snippet below:
 - [gfm_viewer GitHub Flavored Markdown Viewer](https://github.com/satyagraha/gfm_viewer)
 - [GoClipse](https://github.com/sesteel/goclipse)
 - [gradle](https://github.com/spring-projects/eclipse-integration-gradle)
+- [instasearch](https://github.com/ajermakovics/eclipse-instasearch) Eclipse plug-in for fast code search
 - [JDT Spelling](https://github.com/hendrens/jdt.spelling) spelling in Java Classes and methods names
 - [jshint](https://github.com/eclipsesource/jshint-eclipse/)
 - [m2e-android](https://github.com/rgladwell/m2e-android)
