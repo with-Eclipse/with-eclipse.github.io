@@ -131,7 +131,7 @@ Just use code snippet below:
 
 #### on SourceForge
 
-- 
+- [Json Editor Plugin](https://sourceforge.net/projects/eclipsejsonedit/)
 
 
 [Edit this page](https://github.com/with-Eclipse/with-eclipse.github.io/edit/master/index.md)
