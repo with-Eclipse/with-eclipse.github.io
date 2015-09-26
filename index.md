@@ -116,6 +116,7 @@ Just use code snippet below:
 - [Nodeclipse (Node.js, Nashorn, Phantomjs, Maven, Gradle)](https://github.com/Nodeclipse/nodeclipse-1)
 - [patternbox-eclipse](https://github.com/patternbox/patternbox-eclipse)
 - [Quickimage](https://github.com/persal/quickimage) Image Viewer ...
+- [Sandip Chitale's Eclipse Plug-ins](https://github.com/sandipchitale/sandipchitaleseclipseplugins) : Code Clips, Selection Explorer, Close Views, Key Strokes, All Instances, Find/Replace Bar, MultiPage Editor Tab Traverse, Sampler Plug-in, Reverse Text Selection Plug-in, Google Clips Plug-in, Screenshot Plug-in, Reorder Plug-in, Features Plug-ins Fragments Plug-in
 - [shr5rcp](https://github.com/UrsZeidler/shr5rcp) managing resources of Shadowrun game
 - [spring](?), [STS](https://github.com/spring-projects/eclipse-integration-commons),
  [gradle-integration](https://github.com/spring-projects/eclipse-integration-gradle/)
@@ -127,7 +128,7 @@ Just use code snippet below:
 
 #### on Google Code
 
--
+all repositories [are archived](https://code.google.com/p/support/wiki/ReadOnlyTransition)
 
 #### on SourceForge
 
