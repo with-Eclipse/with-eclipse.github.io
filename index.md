@@ -86,7 +86,8 @@ A good idea is just add icon to your project, that proudly says "Developed with 
 Just use code snippet below:
 
 	<a href="http://with-eclipse.github.io/" target="_blank">
-	<img alt="with-Eclipse logo" src="http://with-eclipse.github.io/with-eclipse-0.jpg" /></a>
+	<img alt="with-Eclipse logo" src="http://with-eclipse.github.io/with-eclipse-0.jpg" />
+	</a>
 
 ### Eclipse plugins projects 
 
