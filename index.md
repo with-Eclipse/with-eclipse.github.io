@@ -123,6 +123,7 @@ Just use code snippet below:
  [gradle-integration](https://github.com/spring-projects/eclipse-integration-gradle/)
 - [startexplorer](https://github.com/basti1302/startexplorer/)
 - [vtst-ow Closure and LESS](https://github.com/vtst/ow) :-E 
+- [xiliary](https://github.com/fappel/xiliary) Auxiliary libraries for Eclipse, JUnit and Java development in general
 
 :-E means "your commits are not really welcomed"  
 ... means "slow responses"
