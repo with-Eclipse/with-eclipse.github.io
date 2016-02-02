@@ -98,6 +98,7 @@ Just use code snippet below:
 - [arduino](https://github.com/jantje/arduino-eclipse-plugin)
 - D language ([DDT](https://github.com/bruno-medeiros/DDT))
 - [eclipse-color-theme](https://github.com/eclipse-color-theme/eclipse-color-theme)
+- [eclipse-filecompletion](https://github.com/impetuouslab/eclipse-filecompletion) Plugin completes file name inside java editor. Also assists creating reg exp.
 - [EditBox @Nodeclipse](https://github.com/Nodeclipse/EditBox)
 - [eExplorer](https://github.com/culmat/eExplorer) Embeded Windows Explorer
 - [emmet (ex-Zen Coding)](https://github.com/emmetio/emmet-eclipse)
