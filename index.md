@@ -97,7 +97,7 @@ Just use code snippet below:
 - [aptana](https://github.com/aptana/studio3)
 - [arduino](https://github.com/jantje/arduino-eclipse-plugin)
 - D language ([DDT](https://github.com/bruno-medeiros/DDT))
-- [completeline](https://github.com/henri5/completeline)
+- [completeline](https://github.com/henri5/completeline) <kbd>Ctrl+Shift+Enter</kbd>
 - [eclipse-color-theme](https://github.com/eclipse-color-theme/eclipse-color-theme)
 - [eclipse-filecompletion](https://github.com/impetuouslab/eclipse-filecompletion) Plugin completes file name inside java editor. Also assists creating reg exp.
 - [EditBox @Nodeclipse](https://github.com/Nodeclipse/EditBox)
