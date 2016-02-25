@@ -96,6 +96,7 @@ Just use code snippet below:
 - [ANSI Console](https://github.com/mihnita/ansi-econsole)
 - [aptana](https://github.com/aptana/studio3)
 - [arduino](https://github.com/jantje/arduino-eclipse-plugin)
+- [bndtools](https://github.com/bndtools/bndtools) tools for OSGi using BND
 - D language ([DDT](https://github.com/bruno-medeiros/DDT))
 - [completeline](https://github.com/henri5/completeline) <kbd>Ctrl+Shift+Enter</kbd>
 - [eclipse-asciidoctools](https://github.com/awltech/eclipse-asciidoctools)
