@@ -110,8 +110,7 @@ Just use code snippet below:
 - [GitHub Extensions](https://github.com/ANCIT/eGit-extensions)
 - [gfm_viewer GitHub Flavored Markdown Viewer](https://github.com/satyagraha/gfm_viewer)
 - [GoClipse](https://github.com/sesteel/goclipse)
-- [gradle](https://github.com/spring-projects/eclipse-integration-gradle)
-- [EGradle](https://github.com/de-jcup/egradle)
+- gradle [Gradle IDE (STS)](https://github.com/spring-projects/eclipse-integration-gradle) and [EGradle](https://github.com/de-jcup/egradle)
 - [instasearch](https://github.com/ajermakovics/eclipse-instasearch) Eclipse plug-in for fast code search
 - [JDT Spelling](https://github.com/hendrens/jdt.spelling) spelling in Java Classes and methods names
 - [jshint](https://github.com/eclipsesource/jshint-eclipse/)
