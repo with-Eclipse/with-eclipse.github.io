@@ -129,6 +129,7 @@ Just use code snippet below:
 - [spring](?), [STS](https://github.com/spring-projects/eclipse-integration-commons),
  [gradle-integration](https://github.com/spring-projects/eclipse-integration-gradle/)
 - [startexplorer](https://github.com/basti1302/startexplorer/)
+- [VisualCode](https://github.com/ToivoAdams/VisualCode_Site) - visually compose java code
 - [vtst-ow Closure and LESS](https://github.com/vtst/ow) :-E 
 - [xiliary](https://github.com/fappel/xiliary) Auxiliary libraries for Eclipse, JUnit and Java development in general
 
