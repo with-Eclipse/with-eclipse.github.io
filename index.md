@@ -103,6 +103,7 @@ Just use code snippet below:
 - [EcliPaint](https://github.com/jabiercoding/eclipaint) - [Image editor, icon manager](https://github.com/jabiercoding/eclipaint/wiki)
 - [eclipse-asciidoctools](https://github.com/awltech/eclipse-asciidoctools)
 - [eclipse-color-theme](https://github.com/eclipse-color-theme/eclipse-color-theme)
+- [eclipse-encoding-plugin](https://github.com/cypher256/eclipse-encoding-plugin) Autodetect Encoding
 - [eclipse-filecompletion](https://github.com/impetuouslab/eclipse-filecompletion) Plugin completes file name inside java editor. Also assists creating reg exp.
 - [EditBox @Nodeclipse](https://github.com/Nodeclipse/EditBox)
 - [eExplorer](https://github.com/culmat/eExplorer) Embeded Windows Explorer
