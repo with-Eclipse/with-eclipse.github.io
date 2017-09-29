@@ -96,6 +96,7 @@ Just use code snippet below:
 - [ANSI Console](https://github.com/mihnita/ansi-econsole)
 - [aptana](https://github.com/aptana/studio3)
 - [arduino](https://github.com/jantje/arduino-eclipse-plugin)
+- [bash-editor](https://github.com/de-jcup/eclipse-bash-editor) bash scripts (`.sh`) Editor
 - [bndtools](https://github.com/bndtools/bndtools) tools for OSGi using BND
 - [bndtoolsPlugins](https://github.com/fhuberts/bndtoolsPlugins)
 - D language ([DDT](https://github.com/bruno-medeiros/DDT))
@@ -115,6 +116,7 @@ Just use code snippet below:
 - gradle [Gradle IDE (STS)](https://github.com/spring-projects/eclipse-integration-gradle) and [EGradle](https://github.com/de-jcup/egradle)
 - [instasearch](https://github.com/ajermakovics/eclipse-instasearch) Eclipse plug-in for fast code search
 - [JDT Spelling](https://github.com/hendrens/jdt.spelling) spelling in Java Classes and methods names
+- [jenkins-editor](https://github.com/de-jcup/eclipse-jenkins-editor) `Jenkinsfile` Editor
 - [jshint](https://github.com/eclipsesource/jshint-eclipse/)
 - [m2e-android](https://github.com/rgladwell/m2e-android)
 - [mirur](https://github.com/brandonborkholder/mirur) Visual Debugger
