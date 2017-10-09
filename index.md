@@ -98,6 +98,7 @@ Just use code snippet below:
 - [ANSI Console](https://github.com/mihnita/ansi-econsole)
 - [aptana](https://github.com/aptana/studio3)
 - [arduino](https://github.com/jantje/arduino-eclipse-plugin)
+- [https://github.com/nodj/AutoDeriv](AutoDeriv) - an Eclipse plugin that handle the 'derived' state of resources from a textual file
 - [bash-editor](https://github.com/de-jcup/eclipse-bash-editor) bash scripts (`.sh`) Editor
 - [bndtools](https://github.com/bndtools/bndtools) tools for OSGi using BND
 - [bndtoolsPlugins](https://github.com/fhuberts/bndtoolsPlugins)
