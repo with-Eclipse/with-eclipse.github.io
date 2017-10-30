@@ -130,6 +130,7 @@ Just use code snippet below:
 - [mybatipse](https://github.com/harawata/mybatipse)
 - [Nodeclipse (Node.js, Nashorn, Phantomjs, Maven, Gradle)](https://github.com/Nodeclipse/nodeclipse-1)
 - [patternbox-eclipse](https://github.com/patternbox/patternbox-eclipse)
+- [Preference Editor](https://github.com/32kda/com.onpositive.prefeditor) for Eclipse/RCP application dedugging 
 - [Quickimage](https://github.com/persal/quickimage) Image Viewer ...
 - [ResourceBundle Editor](https://github.com/essiembre/eclipse-rbe)
 - [Sandip Chitale's Eclipse Plug-ins](https://github.com/sandipchitale/sandipchitaleseclipseplugins) : Code Clips, Selection Explorer, Close Views, Key Strokes, All Instances, Find/Replace Bar, MultiPage Editor Tab Traverse, Sampler Plug-in, Reverse Text Selection Plug-in, Google Clips Plug-in, Screenshot Plug-in, Reorder Plug-in, Features Plug-ins Fragments Plug-in
