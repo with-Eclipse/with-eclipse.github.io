@@ -105,6 +105,7 @@ Just use code snippet below:
 - D language ([DDT](https://github.com/bruno-medeiros/DDT))
 - [completeline](https://github.com/henri5/completeline) <kbd>Ctrl+Shift+Enter</kbd>
 - [CsvEdit](https://github.com/Mathieuu/CsvEdit) `.csv` editing in table
+- [EasyShell](https://github.com/anb0s/EasyShell) EasyShell - This Eclipse plugin allows to open a shell window or file manager from the popup menu in the navigation tree or editor view. Additionally it is possible to run selected file in the shell, copy file or directory path or run user defined external tools. Key shortcuts and multiple selections are also supported! http://anb0s.github.io/EasyShell
 - [EcliPaint](https://github.com/jabiercoding/eclipaint) - [Image editor, icon manager](https://github.com/jabiercoding/eclipaint/wiki)
 - [eclipse-asciidoctools](https://github.com/awltech/eclipse-asciidoctools)
 - [eclipse-color-theme](https://github.com/eclipse-color-theme/eclipse-color-theme)
