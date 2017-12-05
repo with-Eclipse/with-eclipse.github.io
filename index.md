@@ -99,7 +99,8 @@ Just use code snippet below:
 - [aptana](https://github.com/aptana/studio3)
 - [arduino](https://github.com/jantje/arduino-eclipse-plugin)
 - [AutoDeriv](https://github.com/nodj/AutoDeriv) - an Eclipse plugin that handle the 'derived' state of resources from a textual file
-- [bash-editor](https://github.com/de-jcup/eclipse-bash-editor) bash scripts (`.sh`) Editor
+- [bash-editor](https://github.com/de-jcup/eclipse-bash-editor) Linux bash scripts (`.sh`) Editor
+- [batch-editor](https://github.com/de-jcup/eclipse-batch-editor) Windows batch scripts (`.bat`) Editor
 - [bndtools](https://github.com/bndtools/bndtools) tools for OSGi using BND
 - [bndtoolsPlugins](https://github.com/fhuberts/bndtoolsPlugins)
 - D language ([DDT](https://github.com/bruno-medeiros/DDT))
