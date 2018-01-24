@@ -122,6 +122,7 @@ Just use code snippet below:
 - gradle [Gradle IDE (STS)](https://github.com/spring-projects/eclipse-integration-gradle) and [EGradle](https://github.com/de-jcup/egradle)
 - [http4e](https://github.com/nextinterfaces/http4e) REST HTTP Client plugin enabling developer to create HTTP packets directly from Eclipse
 - [instasearch](https://github.com/ajermakovics/eclipse-instasearch) Eclipse plug-in for fast code search
+- [JBC](https://github.com/itemis/jbc) Java Byte Code Editor Eclipse Plugin 
 - [JDT Spelling](https://github.com/hendrens/jdt.spelling) spelling in Java Classes and methods names
 - [Jeeeyul's Eclipse Themes](https://github.com/jeeeyul/eclipse-themes)
 - [jenkins-editor](https://github.com/de-jcup/eclipse-jenkins-editor) `Jenkinsfile` Editor
