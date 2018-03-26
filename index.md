@@ -108,6 +108,7 @@ Just use code snippet below:
 - [CsvEdit](https://github.com/Mathieuu/CsvEdit) `.csv` editing in table
 - [EasyShell](https://github.com/anb0s/EasyShell) EasyShell - This Eclipse plugin allows to open a shell window or file manager from the popup menu in the navigation tree or editor view. Additionally it is possible to run selected file in the shell, copy file or directory path or run user defined external tools. Key shortcuts and multiple selections are also supported! http://anb0s.github.io/EasyShell
 - [EcliPaint](https://github.com/jabiercoding/eclipaint) - [Image editor, icon manager](https://github.com/jabiercoding/eclipaint/wiki)
+- [eclipse-asciidoctor-editor](https://github.com/de-jcup/eclipse-asciidoctor-editor) NEW
 - [eclipse-asciidoctools](https://github.com/awltech/eclipse-asciidoctools)
 - [eclipse-color-theme](https://github.com/eclipse-color-theme/eclipse-color-theme)
 - [eclipse-encoding-plugin](https://github.com/cypher256/eclipse-encoding-plugin) Autodetect Encoding
