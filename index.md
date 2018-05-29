@@ -146,6 +146,7 @@ Just use code snippet below:
 - [VisualCode](https://github.com/ToivoAdams/VisualCode_Site) - visually compose java code
 - [vtst-ow Closure and LESS](https://github.com/vtst/ow) :-E 
 - [xiliary](https://github.com/fappel/xiliary) Auxiliary libraries for Eclipse, JUnit and Java development in general
+- [YAML-editor](https://github.com/de-jcup/eclipse-yaml-editor)
 
 :-E means "your commits are not really welcomed"  
 ... means "slow responses"
