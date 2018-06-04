@@ -94,7 +94,13 @@ Just use code snippet below:
 	<img alt="with-Eclipse logo" src="http://with-eclipse.github.io/with-eclipse-0.jpg" />
 	</a>
 
+### Some project that state the use of Eclipse IDE
+
+...
+
 ### Eclipse plugins projects 
+
+List of some plugins for Eclipse IDE users.
 
 #### on GitHub
 
