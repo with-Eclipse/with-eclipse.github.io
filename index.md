@@ -15,6 +15,7 @@ Eclipse is maybe "the least known" IDE. Given the number of [projects](https://p
  However learning Eclipse IDE basics will give skill set and knowledge that can be applied
  in [wide range of Eclipse based products and IDEs](http://en.wikipedia.org/wiki/List_of_Eclipse-based_software).
 
+<!--
 ### Eclipse IDE user voice
 
 Unofficial [[yet](http://eclipse-ide.uservoice.com/forums/237853-eclipse-ide-ideas/suggestions/5380278)] wishlist
@@ -36,6 +37,7 @@ Of course it won't be immediate fulfillment. And you should raise a issue in [Bu
 These are wishes of broader community. So be more generic. [What will be useful for everybody?][1]
 
 Vote on existing ideas. Those getting more upvotes will be seen by everybody, and popularity will speed up the implementation. 
+-->
 
 ### Story
 
