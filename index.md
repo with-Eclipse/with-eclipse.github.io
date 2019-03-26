@@ -3,7 +3,7 @@ layout: tactile_theme
 title: Developed with Eclipse notion
 ---
 
-The intro is out-dated (welcome to [Edit this page](https://github.com/with-Eclipse/with-eclipse.github.io/edit/master/index.md)), while the plugins list below is being kept updated while new arrive.
+The intro is maybe out-dated site (welcome to [edit](https://github.com/with-Eclipse/with-eclipse.github.io/edit/master/index.md)), while the plugins list below is being kept updated while new arrive.
 
 ### Eclipse
 
