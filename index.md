@@ -3,7 +3,9 @@ layout: tactile_theme
 title: Developed with Eclipse notion
 ---
 
-The intro is maybe out-dated site (welcome to [edit](https://github.com/with-Eclipse/with-eclipse.github.io/edit/master/index.md)), while the plugins list below is being kept updated when new are spotted.
+Note, that the intro is out-dated (welcome to [edit](https://github.com/with-Eclipse/with-eclipse.github.io/edit/master/index.md)), while the plugins list below is being kept updated when new are spotted.
+In short before, Eclipse organization before positioned itself as platform for primary desktop development.
+While usual Java developers were not even having dedicated page like https://www.eclipse.org/ide/ now.
 
 ### Eclipse
 
